@@ -1,0 +1,704 @@
+<html>
+<head>
+<style type="text/css">
+	body {
+		font-family: Monospace;
+		background-color: #f0f0f0;
+		margin: 0px;
+		overflow: hidden;
+	}
+	table.periodicTable td {
+		margin: 10px;
+		//color: #A9A9A9;
+	}
+
+	.periodicTable td.selected {
+		background-color: green;
+	}
+	.periodicTable td.unselected {
+		font-weight: normal;
+		color: #A9A9A9;
+	}
+	.periodicTable td.present {
+		//font-weight: bold;
+		color: #000000;
+		//font-style: italic;
+	}
+	.periodicTable td.notpresent {
+		//font-weight: normal;
+		color: #A9A9A9;
+	}	
+	.txtAxis:focus {
+		background-color:#3498DB;
+	}
+	.navigationRight {
+		border-left: thick solid #ff0000;
+		float: right;
+	}
+ </style>
+	<script type="text/javascript" src="./jquery-1.9.1.js"></script> 
+	<script type="text/javascript" src="./papaparse.js"></script>
+	<script src="alasql.min.js"></script>
+</head>
+<body>
+	<center>
+		<h3>Load Dataset</h3>
+		<input type="button" value="30x30x30" id="btnLoadThirty" >		
+
+		<form name="periodicTable">
+		<table id = "periodicTable" class="periodicTable" cellspacing=2 cellpadding=0 width=500>
+			<tr>
+				<td align=center bgcolor="#FFE4C4">Soil science </td>
+				<td align=center bgcolor="#FFE4C4">Weeds--Control </td>
+				<td align=center bgcolor="#FFE4C4">Ecology--Mathematical models </td>
+			</tr>
+			<tr>
+				<td align=center bgcolor="#FFE4C4">Plant diseases </td>
+				<td align=center bgcolor="#FFE4C4">Veterinary medicine </td>
+				<td align=center bgcolor="#FFE4C4">Dairying </td>
+			</tr>
+			<tr>
+				<td align=center bgcolor="#FFE4C4">Soils--Quality </td>
+				<td align=center bgcolor="#FFE4C4">Water--Waste </td>
+				<td align=center bgcolor="#FFE4C4">Water--waste </td>
+			</tr>	
+			<tr>
+				<td align=center bgcolor="#FFE4C4">Agricultural engineering </td>
+				<td align=center bgcolor="#FFE4C4">Food crops--Genetic engineering </td>
+				<td align=center bgcolor="#FFE4C4">Entomology </td>
+			</tr>	
+						<tr>
+				<td align=center bgcolor="#FFE4C4">Insects--Physiology </td>
+				<td align=center bgcolor="#FFE4C4">Molecular ecology </td>
+				<td align=center bgcolor="#FFE4C4">Forests and forestry </td>
+			</tr>	
+			<tr>
+				<td align=center bgcolor="#FFE4C4">Agriculture--Economic aspects </td>
+				<td align=center bgcolor="#FFE4C4">Pests--Control </td>
+				<td align=center bgcolor="#FFE4C4">Conservation biology </td>
+			</tr>	
+						<tr>
+				<td align=center bgcolor="#FFE4C4">Superconductors </td>
+				<td align=center bgcolor="#FFE4C4">Potatoes </td>
+				<td align=center bgcolor="#FFE4C4">Crop science </td>
+			</tr>	
+			<tr>
+				<td align=center bgcolor="#FFE4C4">Transportation--Research </td>
+				<td align=center bgcolor="#FFE4C4">Food--Safety measures </td>
+				<td align=center bgcolor="#FFE4C4">Geomorphology </td>
+			</tr>	
+						<tr>
+				<td align=center bgcolor="#FFE4C4">Food--Analysis </td>
+				<td align=center bgcolor="#FFE4C4">Genomics </td>
+				<td align=center bgcolor="#FFE4C4">Semiconductors </td>
+			</tr>	
+			<tr>
+				<td align=center bgcolor="#FFE4C4">Microbiology </td>
+				<td align=center bgcolor="#FFE4C4">Biotechnology </td>
+				<td align=center bgcolor="#FFE4C4">Molecular biology--Methodology </td>
+			</tr>				
+		</table>
+		</form>
+		<h3>Choose Elements for 3 Axes:</h3>
+		<!--<input type="radio" name="axis" id="radioXaxis" checked=true >X-Axis
+		<input type="radio" name="axis" id="radioYaxis" >Y-Axis
+		<input type="radio" name="axis" id="radioZaxis" >Z-Axis<br/>-->
+		
+		<form name="table">
+			<table id ="axisSelect" class="axisSelect" width="500">
+				<tr>
+					<td align="center" width="33%">X-Axis</td>
+					<td align="center" width="33%"><input type="text" id="txtXaxis" class="txtAxis" value="" size="100"  readonly autofocus></td>
+				</tr>
+				<tr>
+					<td align="center" width="33%">Y-Axis</td>
+					<td align="center" width="33%"><input type="text" id="txtYaxis" class="txtAxis" value="" size="100"  readonly autofocus></td>
+				</tr>
+				<tr>
+					<td align="center" width="33%">Z-Axis</td>
+					<td align="center" width="33%"><input type="text" id="txtZaxis" class="txtAxis" value="" size="100"  readonly autofocus></td>
+				</tr>				
+			</table>
+			<input type="button" value="Download Subset Data" id="btnDownload" onclick="downloadCSV()" disabled>
+			<input type="button" value="Visualize Selected Elements" id="btnVisualizeSel" disabled>
+			<input type="button" value="Visualize All Elements" id="btnVisualizeAll" disabled>
+		</form>
+		<input type="button" value="Clear All" id ="btnClearAll" onclick="clearSelection()"><br/>
+	</center>
+	<div class="navigationRight">
+	</div>
+
+<script>
+	//define variables
+	var headers = ""; //holds the headers from the uploaded csv file
+	var dataset=[];
+	var subsetData= new Array();
+	var csvSubset = ""; //holds the subset of data based on user selection of elements
+	//var csvString = "";
+	var length = 0; //length of the header of the csv file
+	var xaxis = ""; //list of elements selected on x-axis
+	var yaxis = ""; //list of elements selected on y-axis
+	var zaxis = ""; //list of elements selected on z-axis
+	var xAxisCount = 0; //count of elements selected on x-axis
+	var yAxisCount = 0; //count of elements selected on y-axis
+	var zAxisCount = 0; //count of elements selected on z-axis
+	var filename = ""; //file name of the csv
+	var redirectWindow; //to redirect to visualization page
+	var table = $("#periodicTable"); 
+	var selectedAxis = "x";
+	var eleByAtomicNo = "H,He,Li,Be,B,C,N,O,F,Ne,Na,Mg,Al,Si,P,S,Cl,Ar,K,Ca,Sc,Ti,V,Cr,Mn,Fe,Co,Ni,Cu,Zn,Ga,Ge,As,Se,Br,Kr,Rb,Sr,Y,Zr,Nb,Mo,Tc,Ru,Rh,Pd,Ag,Cd,In,Sn,Sb,Te,I,Xe,Cs,Ba,REE,La,Ce,Pr,Nd,Pm,Sm,Eu,Gd,Tb,Dy,Ho,Er,Tm,Yb,Lu,Hf,Ta,W,Re,Os,Ir,Pt,Au,Hg,Tl,Pb,Bi,Po,At,Rn,Fr,Ra,Ac,Th,Pa,U,Np,Pu,Am,Cm,Bk,Cf,Es,Fm,Md,No,Lr,Rf,Db,Sg,Bh,Hs,Mt,Ds,Rg,Cn,Nh,Fl,Mc,Lv,Ts,Og";
+	
+	// function to read headers
+	function getHeaders(results){
+	document.getElementById("txtXaxis").focus();// = true;
+	console.log("getHeaders(results) called");
+	//console.log("document.getElementById(txtXaxis).clicked"+document.getElementById("txtXaxis").focus());
+		for(i=0; i<results.length; i++){
+			dataset.push(results[i]);	
+		}
+		//console.log("dataset[0]:"+dataset[0]);
+		//console.log("results[0]:"+results[0]);
+		length = dataset[0].split(",").length;
+		//console.log("dataset[0].length:"+dataset[0].split(",").length);
+		//console.log("length of the header: "+length);
+		highlightHeaders();
+		document.getElementById("btnDownload").disabled = false;
+		document.getElementById("btnVisualizeSel").disabled = false;
+		document.getElementById("btnVisualizeAll").disabled = false;
+	}
+	//highlight only the elements present in header of the csv in periodic table
+	function highlightHeaders(){
+	//console.log("dataset[0] inside highlight headers:"+dataset[0]);
+	if(dataset[0] != undefined){
+		headers = dataset[0];
+		var element = headers.split(",");
+		//console.log("element:"+element);
+		//var element = headers;
+		}
+	else{
+		var element = "0";
+	}
+		console.log("headers: " + headers);
+		//console.log("element.length: " + element.length);
+		table.find(".selected").removeClass("selected");
+		table.find(".present").removeClass("present");
+		table.find(".notpresent").removeClass("notpresent");
+		var flag = false;	
+		table.find("tr").each(function() { 
+			$(this).find("td").each (function() {
+				for(k=0;k<element.length;k++){
+					if(element[k].trim()==$(this).html().trim()){
+						//console.log("present element:" + $(this).html());
+						$(this).removeClass("notpresent");
+						$(this).addClass("present");
+						break;
+					}
+					
+					else{
+						//console.log("not present element:" + $(this).html());
+						//$(this).find("td").removeClass("present");
+						$(this).removeClass("present");
+						$(this).addClass("notpresent");
+						//break;
+					}
+				}
+			});
+		}); 
+		if(selectedAxis == "x"){
+		//console.log("xaxis inside the radio button change and highlight");
+			if(xaxis==""){
+				console.log("x axis is empty");
+			}else{
+				var xaxisTemp = xaxis.split(",");
+				//console.log("xaxisTemp:"+xaxisTemp);
+				table.find("tr").each(function() { 
+					$(this).find("td").each (function() {
+						for(k=0;k<xAxisCount;k++){
+						//console.log("inside for loop x axis");
+							if(xaxisTemp[k].trim()==$(this).html().trim()){
+									$(this).addClass("selected");
+							}
+						}
+					});
+				}); 			
+			}
+		}else if(selectedAxis == "y"){
+		//console.log("yaxis inside the radio button change and highlight");
+			if(yaxis==""){
+				console.log("y axis is empty");
+			}else{
+				var yaxisTemp = yaxis.split(",");
+				table.find("tr").each(function() { 
+					$(this).find("td").each (function() {
+						for(k=0;k<yAxisCount;k++){
+							if(yaxisTemp[k].trim()==$(this).html().trim()){
+									$(this).addClass("selected");
+							}
+						}
+					});
+				}); 
+			}
+		}else if(selectedAxis == "z"){
+		//console.log("zaxis inside the radio button change and highlight");
+			if(zaxis==""){
+				console.log("z axis is empty");
+			}else{
+				var zaxisTemp = zaxis.split(",");
+				table.find("tr").each(function() { 
+					$(this).find("td").each (function() {
+						for(k=0;k<zAxisCount;k++){
+							if(zaxisTemp[k].trim()==$(this).html().trim()){
+									//console.log("zaxisTemp[k]:"+zaxisTemp[k] +"and $(this).html()="+$(this).html());
+									$(this).addClass("selected");
+							}
+						}
+					});
+				}); 
+			}
+		}else{
+		console.log("else nothing");
+		}
+	}
+	
+	//function that selects the elements in periodic table
+	function selectData(){
+		table.find("td").unbind("mousedown"); //this is absolute necessary otherwise the mouse click after clearing will not work
+		console.log("selectData() called");
+		var isMouseDown = false;
+		//table.find(".selected").removeClass("selected"); // deselect everything
+		table.find("td").mousedown(function (e) {
+		//$("#periodicTable td").click(function (e) {
+			isMouseDown = true;
+			
+			var cell = $(this);
+			//console.log("cell.is(\".selected\"):" + cell.is(".selected"));
+			//table.find(".selected").removeClass("selected"); // deselect everything
+			if(cell.is(".selected")){
+				//console.log("already selected cell:");
+				cell.removeClass("selected");
+				createAxes(cell.html().trim());
+			}else if(cell.is(".present")){
+				cell.addClass("selected");
+				//console.log("present in header");
+				//console.log($(this).html());
+				createAxes(cell.html().trim());
+			}
+			else{
+				//console.log("not present in header");
+			}		
+			return false; // prevent text selection
+		})
+		
+		.mouseover(function () {
+			if (!isMouseDown) return;
+			table.find(".selected").removeClass("selected");
+			//selectTo($(this));
+		})
+		.bind("selectstart", function () {
+			return false;
+		});
+
+		$(document).mouseup(function () {
+			isMouseDown = false;
+		});
+		
+		
+	}
+	
+	//create x,y and z axes based on the element selected. It also sort the elements based on their atomic number. Here reference taken from header in csv
+	function createAxes(cell){
+		//var isMouseDown = false;
+		if(selectedAxis == "x"){
+		//console.log("inside if of xaxis");
+			if(xaxis==""){
+				xaxis +=  cell;
+			}else{
+				//console.log("before:"+xaxis);
+				xaxis = checkAlreadySelected(cell,xaxis);
+				//console.log("after:"+xaxis)
+			}
+			document.getElementById("txtXaxis").value = xaxis;
+			xAxisCount = xaxis.split(",").length;
+		}else if(selectedAxis == "y"){
+		//console.log("inside if of yaxis");
+			if(yaxis==""){
+				yaxis +=  cell;
+			}else{
+				yaxis = checkAlreadySelected(cell,yaxis);
+			}
+			document.getElementById("txtYaxis").value = yaxis;
+			yAxisCount = yaxis.split(",").length;
+		}
+		else if(selectedAxis == "z"){
+		//console.log("inside if of zaxis");
+			if(zaxis==""){
+				zaxis +=  cell;
+			}else{
+				zaxis = checkAlreadySelected(cell,zaxis);
+			}
+			document.getElementById("txtZaxis").value = zaxis;
+			zAxisCount = zaxis.split(",").length;
+		}
+		else{
+		console.log("esle nothing");
+		}
+		/*
+		console.log("xaxis : "+xaxis);
+		console.log("xaxis.length : "+xAxisCount);
+		console.log("yaxis : "+yaxis);
+		console.log("yaxis.length : "+yAxisCount);
+		console.log("zaxis : "+zaxis);
+		console.log("zaxis.length : "+zAxisCount);
+		*/
+	//	createSubset();
+	}
+	$("input[name='axis']").change(function(){
+		highlightHeaders();
+		/*
+		console.log("radio button changed");
+		console.log("xaxis : "+xaxis);
+		console.log("xaxis.length : "+xAxisCount);
+		console.log("yaxis : "+yaxis);
+		console.log("yaxis.length : "+yAxisCount);
+		console.log("zaxis : "+zaxis);
+		console.log("zaxis.length : "+zAxisCount);
+		*/
+		
+		
+		
+	});
+	
+	//check if the element is already selected, if yes then deselect
+	function checkAlreadySelected(element,axis){
+		//console.log("before axis:"+axis);
+		var axisTemp = [];
+		var flag = false;
+		axisTemp = axis.split(",");
+		for (i=0;i<axisTemp.length;i++){
+			if(element == axisTemp[i]){
+				//var axisIndex = axisTemp.indexOf(element);
+				flag = true;
+				break;
+				
+			}
+		}
+			
+		if(flag){
+		//console.log("remove:"+element);
+			axisTemp.splice(i,1);
+			axis = axisTemp.join(",");
+		}
+		else {
+			//console.log("push:"+element);
+			axis +=","+element;
+		}
+		//console.log("after axis:" + axis);
+		return axis;
+	}
+	
+	//create subset based on elements selected by user
+	//use of alaSql.js
+	//outputs data in alaData
+	function createSubset() {
+		console.log("inside createSubset");
+		var csvString = dataset.join("\n");
+		console.log("csvString:"+ csvString);
+		
+		var config = {
+			header:true,
+			dynamicTyping: true
+		};
+		var jsonObject = Papa.parse(csvString,config).data;
+		//console.log("jsonObject[0]:"+jsonObject[0]);
+		var jsonString = JSON.stringify(jsonObject);
+		//console.dir("jsonString:"+jsonString);
+		//var jsonStringFormatted = jsonString.replace(/{/g,"\n\t{").replace("]","\n]");
+		//var parsedJson = JSON.parse(jsonString);
+		//console.log("jsonString.length: "+parsedJson.length);
+		//console.log("jsonString.zaxis: "+parsedJson[0].zaxis);
+		//for(i=0; i <parsedJson.length; i++){
+		//console.dir("jsonString[" + i + "].zaxis: "+parsedJson[i].zaxis);
+		//}
+		var xaxisTemp = "" ;
+		var yaxisTemp = "" ;
+		var zaxisTemp = "" ;
+		//console.log("headers for sorting:"+headers);
+		//console.log("x axis elements for sorting:"+xaxis);
+		//sort the x axis elements as per the headers and add [] to avoid the fields match the sql keywords
+		console.log("xa axis.length:"+xaxis.split(",").length);
+		for(i=0; i<xaxis.split(",").length ; i++){
+			xaxisTemp += "[" + xaxis.split(",")[i].trim() + "],";
+			//console.log("xaxisTemp:"+xaxisTemp);
+		}
+		console.log("xaxisTemp:"+xaxisTemp);
+		for(i=0; i<yaxis.split(",").length ; i++){
+			//console.log("yaxisTemp:"+yaxis.split(",")[i]);
+			yaxisTemp += "\'" + yaxis.split(",")[i].trim() + "\',";
+			//console.log("yaxisTemp:"+yaxisTemp);
+		}
+		console.log("yaxisTemp:"+yaxisTemp);
+		for(i=0; i<zaxis.split(",").length ; i++){
+			//console.log("zaxisTemp:"+zaxis.split(",")[i]);
+			zaxisTemp += "\'" + zaxis.split(",")[i].trim() + "\',";
+			//console.log("zaxisTemp:"+zaxisTemp);
+		}
+		console.log("zaxisTemp:"+zaxisTemp);
+		var query = "SELECT DISTINCT trim(zaxis),trim(yaxis)," + xaxisTemp.substring(0, xaxisTemp.length - 1) + 
+					" FROM ? WHERE trim(zaxis) IN(" + zaxisTemp.substring(0, zaxisTemp.length - 1) + 
+					") AND trim(yaxis) IN(" + yaxisTemp.substring(0, yaxisTemp.length - 1) + ")" +
+					"order by zaxis,yaxis";
+		//console.log("querying by aladata: ");
+		console.log(query);
+		var alaData = (alasql(query, [jsonObject]));
+		//console.log("alaData:"+alaData);
+		var jsonObjectsub = JSON.stringify(alaData);
+		var jsonStringsub = JSON.parse(jsonObjectsub);
+		console.log("creating cubes of subset:"+jsonObjectsub);
+		//console.log("jsonStringsub:"+jsonStringsub);
+		createCSV(jsonStringsub);
+		//console.log("testing:"+typeof window.Storage);
+		if (typeof window.Storage === 'undefined') {
+			alert('Storage turned off...');
+		}
+		localStorage.removeItem("jsonObjectsub");
+		localStorage.removeItem("xAxisCount");
+		localStorage.removeItem("yAxisCount");
+		localStorage.removeItem("zAxisCount");
+		localStorage.setItem("jsonObjectsub", jsonObjectsub);
+		localStorage.setItem("xAxisCount", xAxisCount);
+		localStorage.setItem("yAxisCount", yAxisCount);
+		localStorage.setItem("zAxisCount", zAxisCount);
+		localStorage.removeItem("localfilename", filename);
+		localStorage.setItem("localfilename", filename);
+		localStorage.removeItem("headerlength");
+		localStorage.setItem("headerlength", length-2);
+		console.log("headerlength:"+ length-2)
+		localStorage.removeItem("isAllEle");
+		localStorage.setItem("isAllEle", 0);
+		//var obj = JSON.parse(localStorage.getItem("jsonObjectsub"));
+		//console.log("retrieved object: "+ obj);
+	}
+	
+	//create csv from the subset
+	function createCSV(str) {
+		var config = {
+			quotes:false,
+			header:true,
+			dynamicTyping: true
+		};
+		csvSubset = Papa.unparse(str,config);
+		console.log("------------------");
+		console.log("inside csvSubset:");
+		console.log("------------------");
+		console.log(csvSubset);
+		//jsonzone.value = csvSubset;
+		//downloadCSV(csvSubset);
+		
+	}
+
+	function downloadCSV() {
+		if(xaxis !=="" && yaxis !=="" && zaxis !==""){
+			createSubset();
+		}
+		else{
+			window.alert("Please select elements for all x, y and z axes!!!");
+		}		
+		console.log("downloading csv:");
+		//var csvString2 = csvSubset.split("\n");
+		//csvString1 = csvString2.join("%0A");
+		//console.log("csvSubset:"+csvSubset);
+		//console.log("csvString1:"+csvString1);	
+		var blob = new Blob([csvSubset]);
+		if (window.navigator.msSaveOrOpenBlob)  // IE hack; see http://msdn.microsoft.com/en-us/library/ie/hh779016.aspx
+			window.navigator.msSaveBlob(blob, "myData.csv");
+		else
+		{
+			var a = window.document.createElement("a");
+			a.href = window.URL.createObjectURL(blob, {type: "text/plain"});
+			a.download = "myData.csv";
+			document.body.appendChild(a);
+			a.click();  // IE: "Access is denied"; see: https://connect.microsoft.com/IE/feedback/details/797361/ie-10-treats-blob-url-as-cross-origin-and-denies-access
+			document.body.removeChild(a);
+		}
+	}
+
+	$('#btnVisualizeSel').click(function () {
+		//console.log("axis x = "+ xaxis);
+		if(xaxis !=="" && yaxis !=="" && zaxis !==""){
+			createSubset();
+			//console.log("redirectWindow:"+redirectWindow);
+			if(redirectWindow!=null){
+				if(!redirectWindow.closed){
+					redirectWindow.close();
+				}
+			}
+			redirectWindow = window.open('cube.html', 'redirectWindow');
+			redirectWindow.location;	
+		}
+		else{
+			window.alert("Please select elements for all x, y and z axes!!! \n Or Press \"Visualize All Elements\"");
+		}
+	});
+
+	$('#btnVisualizeAll').click(function () {
+		console.log("visualizeAll called");
+		console.log("dataset inside visualizeall: "+dataset);
+		var csvString = dataset.join("\n");
+		console.log("csvString inside visualizeall:"+ csvString);
+		
+		var config = {
+			header:true,
+			dynamicTyping: true
+		};
+		var jsonObject = Papa.parse(csvString,config).data;
+		//console.log("jsonObject[0]:"+jsonObject[0]);
+		//var jsonString = JSON.stringify(jsonObject);
+		//console.dir("jsonString:"+jsonString);
+		//var jsonStringFormatted = jsonString.replace(/{/g,"\n\t{").replace("]","\n]");
+		//var parsedJson = JSON.parse(jsonString);
+		//console.log("jsonString.length: "+parsedJson.length);
+		//console.log("jsonString.zaxis: "+parsedJson[0].zaxis);
+		//for(i=0; i <parsedJson.length; i++){
+		//console.dir("jsonString[" + i + "].zaxis: "+parsedJson[i].zaxis);
+		//}
+		var xaxisTemp = "" ;
+		//var yaxisTemp = "" ; //not required since we are selecting all the elements
+		//var zaxisTemp = "" ; //not required since we are selecting all the elements
+		//console.log("headers for sorting:"+headers);
+		//console.log("x axis elements for sorting:"+xaxis);
+		//sort the x axis elements as per the headers and add [] to avoid the fields match the sql keywords
+		//console.log("sorting eleByAtomicNo.length:"+eleByAtomicNo.split(",").length);
+		//console.log("headers:"+headers.split(",")[31]);
+		//console.log("eleByAtomicNo:"+eleByAtomicNo.split(",")[83]);
+			//console.log('eleByAtomicNo.split['+i+'] : '+eleByAtomicNo.split(",")[i]);
+			for(i=2; i<headers.split(",").length ; i++){
+					xaxisTemp += "[" + headers.split(",")[i].trim() + "],";
+					//console.log("headers.split"+[j]+":"+headers.split(",")[j]);
+			}
+			console.log("xaxisTempForAll:"+xaxisTemp);
+		console.log("xaxisTemp:"+xaxisTemp);
+		/*
+		var query = "SELECT DISTINCT trim(zaxis),trim(yaxis)," + xaxisTemp.substring(0, xaxisTemp.length - 1) + 
+					" FROM ? " +
+					"order by zaxis, yaxis";
+		*/
+		var query = "SELECT DISTINCT trim(zaxis),trim(yaxis)" + 
+			" FROM ? " +
+			"order by zaxis, yaxis";
+		//console.log("querying by aladata: ");
+		console.log(query);
+		var alaData = (alasql(query, [jsonObject]));
+		//console.log("alaData:"+alaData);
+		var jsonObjectsub = JSON.stringify(alaData);
+		var jsonStringsub = JSON.parse(jsonObjectsub);
+		createCSV(jsonStringsub);
+		//console.log("dataset: "+dataset.join("\n"));
+		var config = {
+			header:true,
+			dynamicTyping: true
+		};
+		//var jsonObject = Papa.parse(dataset,config);
+		console.log("creating cube of all the elements jsonObject = "+ jsonObject);
+		//jsonObjectsub = JSON.stringify(dataset.join("\n"));
+		console.log("creating cube of all the elements jsonObjectsub = "+ jsonObjectsub);
+		if(jsonObjectsub !== undefined ){
+		console.log("removing local storage");
+			localStorage.removeItem("jsonObjectsub");
+			localStorage.removeItem("xAxisCount");
+			localStorage.removeItem("yAxisCount");
+			localStorage.removeItem("zAxisCount");
+			localStorage.removeItem("isAllEle");
+			//console.log("jsonObjectsub:"+jsonObjectsub);
+			localStorage.setItem("jsonObjectsub", jsonObjectsub);
+			console.log("length-2"+length-2);
+			localStorage.setItem("xAxisCount", length-2);
+			localStorage.setItem("yAxisCount", length-2);
+			localStorage.setItem("zAxisCount", length-2);
+			localStorage.removeItem("localfilename", filename);
+			localStorage.setItem("localfilename", filename);	
+			localStorage.setItem("isAllEle", 1);
+			localStorage.removeItem("headerlength");
+			localStorage.setItem("headerlength", length-2);
+			//console.log("headerlength:"+ length-2)			
+
+			//console.log("redirectWindow:"+redirectWindow);
+			if(redirectWindow!=null){
+				if(!redirectWindow.closed){
+					redirectWindow.close();
+				}
+			}
+			redirectWindow = window.open('cube.html', 'redirectWindow');
+			redirectWindow.location;
+		}
+		else{
+			window.alert("Please load file!!");
+		}
+	});
+
+	function clearSelection(){
+		xaxis = "";
+		xAxisCount=0;
+		yaxis = "";
+		yAxisCount=0;
+		zaxis = "";
+		zAxisCount=0;
+		filename = "";
+		table.find("td").removeClass("selected").addClass("unselected");
+		//table.find("td").addClass("unselected");
+		document.getElementById("txtXaxis").value = "";
+		document.getElementById("txtYaxis").value = "";
+		document.getElementById("txtZaxis").value = "";
+		document.getElementById("txtXaxis").focus();
+		selectedAxis = "x";
+	};
+	
+	$("#txtXaxis").click( function(event){ 
+		selectedAxis = "x";
+		highlightHeaders();
+		}
+	);
+	$("#txtYaxis").click( function(event){ 
+		selectedAxis = "y"; 
+		highlightHeaders();}
+	);
+	$("#txtZaxis").click( function(event){ 
+		selectedAxis = "z"; 
+		highlightHeaders();
+	}
+	);	
+	
+	$('#btnLoadThirty').click(function () {
+	clearSelection();
+	headers = "";
+	dataset = []; //clearing data array. this cannot be done in clearSelection function because it will also clear the loaded csv
+	length = 0;
+	table.find(".present").removeClass("present");
+	table.find(".notpresent").removeClass("notpresent");	
+	var	file = "./3d_data.csv";
+	console.log("filename:"+file);
+			var config = {
+			header:true,
+			dynamicTyping: true
+		};
+	
+	var csvdata;
+	var temp;
+	$.get(file,function(results){
+	csvdata = Papa.parse(results,config).data;
+	temp = results;
+	filename = "3D_DATA.CSV";
+	console.log("data length inside load:"+csvdata.length);
+	console.log("data inside load:"+csvdata[0]);
+	//console.log("data inside load:"+results);
+	//console.log("results inside load:"+results);
+	//console.log("results inside load:"+temp);
+	}).then(function(){	
+	getHeaders(temp.split("\n"));
+	selectData();
+	});	
+	});		
+
+
+</script>
+</body>
+</html>

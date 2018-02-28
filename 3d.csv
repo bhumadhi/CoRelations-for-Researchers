@@ -1,0 +1,902 @@
+zaxis,yaxis,Soil science,Weeds--Control,Ecology--Mathematical models,Plant diseases,Veterinary medicine,Dairying,Soils--Quality,Water--Waste,Water--waste,Agricultural engineering,Food crops--Genetic engineering,Entomology,Insects--Physiology,Molecular ecology,Forests and forestry,Agriculture--Economic aspects,Pests--Control,Conservation biology,Superconductors,Potatoes,Crop science,Transportation--Research,Food--Safety measures,Geomorphology,Food--Analysis,Genomics,Semiconductors,Microbiology,Biotechnology,Molecular biology--Methodology
+Soil science,Soil science ,28,10,3,6,2,3,12,5,5,4,2,2,2,1,4,4,2,3,0,3,4,1,0,3,1,1,0,0,1,0
+Soil science,Weeds--Control ,10,10,0,4,0,1,6,0,0,1,2,0,2,0,0,0,2,0,0,2,3,0,0,0,1,0,0,0,0,0
+Soil science,Ecology--Mathematical models ,3,0,3,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,2,0,1,0,0,1,0
+Soil science,Plant diseases ,6,4,1,6,0,1,2,1,1,0,2,0,2,0,0,0,2,0,0,0,3,0,0,0,1,1,0,0,1,0
+Soil science,Veterinary medicine ,2,0,0,0,2,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Soil science,Dairying ,3,1,0,1,1,3,0,0,0,2,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Soil science,Soils--Quality ,12,6,1,2,0,0,12,2,2,2,1,2,1,0,1,1,1,2,0,2,1,0,0,2,1,0,0,0,0,0
+Soil science,Water--Waste ,5,0,1,1,0,0,2,5,5,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Soil science,Water--waste ,5,0,1,1,0,0,2,5,5,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Soil science,Agricultural engineering ,4,1,1,0,1,2,2,1,1,4,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0
+Soil science,Food crops--Genetic engineering ,2,2,0,2,0,1,1,0,0,0,2,0,1,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0
+Soil science,Entomology ,2,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Soil science,Insects--Physiology ,2,2,0,2,0,0,1,0,0,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Soil science,Molecular ecology ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Soil science,Forests and forestry ,4,0,1,0,0,0,1,1,1,0,0,0,0,0,4,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0
+Soil science,Agriculture--Economic aspects ,4,0,1,0,1,0,1,1,1,1,0,0,0,1,0,4,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+Soil science,Pests--Control ,2,2,0,2,0,1,1,0,0,0,2,0,1,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0
+Soil science,Conservation biology ,3,0,0,0,1,0,2,0,0,0,0,1,0,1,1,1,0,3,0,0,0,1,0,1,0,0,0,0,0,0
+Soil science,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soil science,Potatoes ,3,2,0,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Soil science,Crop science ,4,3,1,3,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,4,0,0,0,0,1,0,0,1,0
+Soil science,Transportation--Research ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Soil science,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soil science,Geomorphology ,3,0,2,0,0,0,2,1,1,1,0,0,0,0,2,1,0,1,0,0,0,0,0,3,0,0,0,0,0,0
+Soil science,Food--Analysis ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Soil science,Genomics ,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Soil science,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soil science,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soil science,Biotechnology ,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Soil science,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Soil science ,10,10,0,4,0,1,6,0,0,1,2,0,2,0,0,0,2,0,0,2,3,0,0,0,1,0,0,0,0,0
+Weeds--Control,Weeds--Control ,10,25,3,12,1,2,9,0,0,2,2,4,8,0,3,0,5,0,0,6,6,0,0,0,2,0,0,1,0,0
+Weeds--Control,Ecology--Mathematical models ,0,3,3,1,0,0,1,0,0,1,0,2,2,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Plant diseases ,4,12,1,12,0,1,2,0,0,0,2,3,6,0,1,0,4,0,0,4,3,0,0,0,1,0,0,1,0,0
+Weeds--Control,Veterinary medicine ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Dairying ,1,2,0,1,1,2,1,0,0,0,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Weeds--Control,Soils--Quality ,6,9,1,2,1,1,9,0,0,2,1,1,3,0,2,0,1,0,0,2,2,0,0,0,1,0,0,0,0,0
+Weeds--Control,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Agricultural engineering ,1,2,1,0,0,0,2,0,0,2,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Food crops--Genetic engineering ,2,2,0,2,0,1,1,0,0,0,2,0,1,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0
+Weeds--Control,Entomology ,0,4,2,3,0,0,1,0,0,1,0,4,2,0,2,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Weeds--Control,Insects--Physiology ,2,8,2,6,1,1,3,0,0,1,1,2,8,0,3,0,3,0,0,2,0,0,0,0,1,0,0,0,0,0
+Weeds--Control,Molecular ecology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Forests and forestry ,0,3,2,1,1,1,2,0,0,1,0,2,3,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Pests--Control ,2,5,1,4,0,1,1,0,0,0,2,1,3,0,1,0,5,0,0,0,1,0,0,0,1,0,0,0,0,0
+Weeds--Control,Conservation biology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Potatoes ,2,6,0,4,0,0,2,0,0,1,0,1,2,0,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0
+Weeds--Control,Crop science ,3,6,0,3,0,1,2,0,0,0,1,1,0,0,0,0,1,0,0,0,6,0,0,0,1,0,0,0,0,0
+Weeds--Control,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Food--Analysis ,1,2,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0
+Weeds--Control,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Microbiology ,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Weeds--Control,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weeds--Control,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecology--Mathematical models,Soil science ,3,0,3,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,2,0,1,0,0,1,0
+Ecology--Mathematical models,Weeds--Control ,0,3,3,1,0,0,1,0,0,1,0,2,2,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecology--Mathematical models,Ecology--Mathematical models ,3,3,24,3,1,0,3,3,3,3,0,4,3,5,7,2,2,5,0,1,2,0,1,4,0,1,0,4,3,3
+Ecology--Mathematical models,Plant diseases ,1,1,3,3,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0,0,0,1,0,1,2,1
+Ecology--Mathematical models,Veterinary medicine ,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecology--Mathematical models,Dairying ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecology--Mathematical models,Soils--Quality ,1,1,3,0,0,0,3,1,1,2,0,2,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Ecology--Mathematical models,Water--Waste ,1,0,3,0,0,0,1,3,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Ecology--Mathematical models,Water--waste ,1,0,3,0,0,0,1,3,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Ecology--Mathematical models,Agricultural engineering ,1,1,3,0,0,0,2,2,2,3,0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Ecology--Mathematical models,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecology--Mathematical models,Entomology ,0,2,4,1,0,0,2,0,0,1,0,4,3,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ecology--Mathematical models,Insects--Physiology ,0,2,3,1,0,0,1,0,0,1,0,3,3,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ecology--Mathematical models,Molecular ecology ,0,0,5,0,0,0,0,0,0,0,0,0,0,5,3,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0
+Ecology--Mathematical models,Forests and forestry ,1,2,7,1,0,0,1,0,0,1,0,2,2,3,7,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0
+Ecology--Mathematical models,Agriculture--Economic aspects ,1,0,2,0,0,0,1,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Ecology--Mathematical models,Pests--Control ,0,1,2,1,0,0,1,0,0,0,0,2,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecology--Mathematical models,Conservation biology ,0,0,5,0,0,0,0,0,0,0,0,1,1,4,2,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0
+Ecology--Mathematical models,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecology--Mathematical models,Potatoes ,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+Ecology--Mathematical models,Crop science ,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,1,1
+Ecology--Mathematical models,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecology--Mathematical models,Food--Safety measures ,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Ecology--Mathematical models,Geomorphology ,2,0,4,0,0,0,1,2,2,1,0,0,0,1,1,1,0,1,0,0,0,0,0,4,0,0,0,0,0,0
+Ecology--Mathematical models,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecology--Mathematical models,Genomics ,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Ecology--Mathematical models,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecology--Mathematical models,Microbiology ,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,4,2,3
+Ecology--Mathematical models,Biotechnology ,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,3,1
+Ecology--Mathematical models,Molecular biology--Methodology ,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3,1,3
+Plant diseases,Soil science ,6,4,1,6,0,1,2,1,1,0,2,0,2,0,0,0,2,0,0,0,3,0,0,0,1,1,0,0,1,0
+Plant diseases,Weeds--Control ,4,12,1,12,0,1,2,0,0,0,2,3,6,0,1,0,4,0,0,4,3,0,0,0,1,0,0,1,0,0
+Plant diseases,Ecology--Mathematical models ,1,1,3,3,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0,0,0,1,0,1,2,1
+Plant diseases,Plant diseases ,6,12,3,22,0,1,2,2,2,0,2,5,8,1,1,1,7,1,0,6,5,0,0,0,1,2,0,3,2,1
+Plant diseases,Veterinary medicine ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant diseases,Dairying ,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Plant diseases,Soils--Quality ,2,2,0,2,0,0,2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+Plant diseases,Water--Waste ,1,0,0,2,0,0,0,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant diseases,Water--waste ,1,0,0,2,0,0,0,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant diseases,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant diseases,Food crops--Genetic engineering ,2,2,0,2,0,1,1,0,0,0,2,0,1,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0
+Plant diseases,Entomology ,0,3,1,5,0,0,0,0,0,0,0,5,2,1,1,0,3,1,0,1,2,0,0,0,0,0,0,0,0,0
+Plant diseases,Insects--Physiology ,2,6,1,8,0,0,1,0,0,0,1,2,8,1,1,0,4,1,0,3,1,0,0,0,1,0,0,0,0,0
+Plant diseases,Molecular ecology ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Plant diseases,Forests and forestry ,0,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant diseases,Agriculture--Economic aspects ,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant diseases,Pests--Control ,2,4,1,7,0,1,1,0,0,0,2,3,4,1,1,0,7,1,0,0,2,0,0,0,1,1,0,0,0,0
+Plant diseases,Conservation biology ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Plant diseases,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant diseases,Potatoes ,0,4,1,6,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,6,0,0,0,0,0,0,0,2,1,1
+Plant diseases,Crop science ,3,3,1,5,0,1,1,0,0,0,1,2,1,1,0,0,2,1,0,0,5,0,0,0,0,1,0,0,1,0
+Plant diseases,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant diseases,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant diseases,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant diseases,Food--Analysis ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plant diseases,Genomics ,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0,1,0
+Plant diseases,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant diseases,Microbiology ,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,1,1
+Plant diseases,Biotechnology ,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,2,1
+Plant diseases,Molecular biology--Methodology ,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+Veterinary medicine,Soil science ,2,0,0,0,2,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Veterinary medicine,Weeds--Control ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Ecology--Mathematical models ,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Plant diseases ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Veterinary medicine ,2,1,1,0,21,12,1,0,0,2,5,0,1,3,1,1,0,1,0,1,0,1,0,0,0,4,0,0,0,1
+Veterinary medicine,Dairying ,1,1,0,0,12,12,1,0,0,1,3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Soils--Quality ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Agricultural engineering ,1,0,0,0,2,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Food crops--Genetic engineering ,0,0,0,0,5,3,0,0,0,0,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,1
+Veterinary medicine,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Insects--Physiology ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Molecular ecology ,1,0,0,0,3,0,0,0,0,0,1,0,0,3,0,1,0,1,0,0,0,1,0,0,0,2,0,0,0,1
+Veterinary medicine,Forests and forestry ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Agriculture--Economic aspects ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Veterinary medicine,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Conservation biology ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Veterinary medicine,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Potatoes ,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Crop science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Transportation--Research ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Veterinary medicine,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Genomics ,0,0,0,0,4,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1
+Veterinary medicine,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veterinary medicine,Molecular biology--Methodology ,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Dairying,Soil science ,3,1,0,1,1,3,0,0,0,2,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Dairying,Weeds--Control ,1,2,0,1,1,2,1,0,0,0,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Dairying,Ecology--Mathematical models ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Plant diseases ,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Dairying,Veterinary medicine ,1,1,0,0,12,12,1,0,0,1,3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Dairying,Dairying ,3,2,0,1,12,17,1,0,0,2,6,0,1,0,1,0,1,0,0,2,1,0,3,0,2,0,0,1,1,0
+Dairying,Soils--Quality ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Agricultural engineering ,2,0,0,0,1,2,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Dairying,Food crops--Genetic engineering ,1,1,0,1,3,6,0,0,0,0,6,0,0,0,0,0,1,0,0,1,1,0,2,0,2,0,0,0,0,0
+Dairying,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Insects--Physiology ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Molecular ecology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Forests and forestry ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Pests--Control ,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Dairying,Conservation biology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Potatoes ,1,0,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Dairying,Crop science ,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Dairying,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Food--Safety measures ,0,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,1,1,0
+Dairying,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Food--Analysis ,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+Dairying,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dairying,Microbiology ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+Dairying,Biotechnology ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+Dairying,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soils--Quality,Soil science ,12,6,1,2,0,0,12,2,2,2,1,2,1,0,1,1,1,2,0,2,1,0,0,2,1,0,0,0,0,0
+Soils--Quality,Weeds--Control ,6,9,1,2,1,1,9,0,0,2,1,1,3,0,2,0,1,0,0,2,2,0,0,0,1,0,0,0,0,0
+Soils--Quality,Ecology--Mathematical models ,1,1,3,0,0,0,3,1,1,2,0,2,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Soils--Quality,Plant diseases ,2,2,0,2,0,0,2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+Soils--Quality,Veterinary medicine ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soils--Quality,Dairying ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soils--Quality,Soils--Quality ,12,9,3,2,1,1,16,2,2,3,1,4,3,0,3,1,2,2,0,2,2,0,0,2,1,0,0,0,0,0
+Soils--Quality,Water--Waste ,2,0,1,0,0,0,2,2,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Soils--Quality,Water--waste ,2,0,1,0,0,0,2,2,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Soils--Quality,Agricultural engineering ,2,2,2,0,0,0,3,1,1,3,0,1,1,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+Soils--Quality,Food crops--Genetic engineering ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Soils--Quality,Entomology ,2,1,2,0,0,0,4,0,0,1,0,4,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Soils--Quality,Insects--Physiology ,1,3,1,1,1,1,3,0,0,1,1,1,3,0,2,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Soils--Quality,Molecular ecology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soils--Quality,Forests and forestry ,1,2,1,0,1,1,3,0,0,1,0,1,2,0,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Soils--Quality,Agriculture--Economic aspects ,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Soils--Quality,Pests--Control ,1,1,1,1,0,0,2,0,0,0,1,1,1,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0
+Soils--Quality,Conservation biology ,2,0,0,0,0,0,2,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0
+Soils--Quality,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soils--Quality,Potatoes ,2,2,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Soils--Quality,Crop science ,1,2,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Soils--Quality,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soils--Quality,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soils--Quality,Geomorphology ,2,0,1,0,0,0,2,1,1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0
+Soils--Quality,Food--Analysis ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Soils--Quality,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soils--Quality,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soils--Quality,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soils--Quality,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soils--Quality,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Soil science ,5,0,1,1,0,0,2,5,5,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Water--Waste,Weeds--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Ecology--Mathematical models ,1,0,3,0,0,0,1,3,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Water--Waste,Plant diseases ,1,0,0,2,0,0,0,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Veterinary medicine ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Dairying ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Soils--Quality ,2,0,1,0,0,0,2,2,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Water--Waste,Water--Waste ,5,0,3,2,0,0,2,15,15,4,0,0,0,0,1,2,0,1,0,0,0,0,0,3,0,0,0,0,0,0
+Water--Waste,Water--waste ,5,0,3,2,0,0,2,15,15,4,0,0,0,0,1,2,0,1,0,0,0,0,0,3,0,0,0,0,0,0
+Water--Waste,Agricultural engineering ,1,0,2,0,0,0,1,4,4,4,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Water--Waste,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Insects--Physiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Molecular ecology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Forests and forestry ,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Agriculture--Economic aspects ,1,0,1,1,0,0,1,2,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Water--Waste,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Conservation biology ,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Water--Waste,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Crop science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Geomorphology ,1,0,2,0,0,0,1,3,3,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,0,0,0,0,0
+Water--Waste,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--Waste,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Soil science ,5,0,1,1,0,0,2,5,5,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Water--waste,Weeds--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Ecology--Mathematical models ,1,0,3,0,0,0,1,3,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Water--waste,Plant diseases ,1,0,0,2,0,0,0,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Veterinary medicine ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Dairying ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Soils--Quality ,2,0,1,0,0,0,2,2,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Water--waste,Water--Waste ,5,0,3,2,0,0,2,15,15,4,0,0,0,0,1,2,0,1,0,0,0,0,0,3,0,0,0,0,0,0
+Water--waste,Water--waste ,5,0,3,2,0,0,2,15,15,4,0,0,0,0,1,2,0,1,0,0,0,0,0,3,0,0,0,0,0,0
+Water--waste,Agricultural engineering ,1,0,2,0,0,0,1,4,4,4,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Water--waste,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Insects--Physiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Molecular ecology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Forests and forestry ,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Agriculture--Economic aspects ,1,0,1,1,0,0,1,2,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Water--waste,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Conservation biology ,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Water--waste,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Crop science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Geomorphology ,1,0,2,0,0,0,1,3,3,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,0,0,0,0,0
+Water--waste,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water--waste,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Soil science ,4,1,1,0,1,2,2,1,1,4,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0
+Agricultural engineering,Weeds--Control ,1,2,1,0,0,0,2,0,0,2,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Ecology--Mathematical models ,1,1,3,0,0,0,2,2,2,3,0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Agricultural engineering,Plant diseases ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Veterinary medicine ,1,0,0,0,2,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Dairying ,2,0,0,0,1,2,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Soils--Quality ,2,2,2,0,0,0,3,1,1,3,0,1,1,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+Agricultural engineering,Water--Waste ,1,0,2,0,0,0,1,4,4,4,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Agricultural engineering,Water--waste ,1,0,2,0,0,0,1,4,4,4,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Agricultural engineering,Agricultural engineering ,4,2,3,0,2,2,3,4,4,14,0,2,1,0,1,1,0,0,0,2,0,0,0,2,0,0,0,1,0,0
+Agricultural engineering,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Entomology ,0,1,1,0,0,0,1,0,0,2,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Insects--Physiology ,0,1,1,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Molecular ecology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Forests and forestry ,0,1,1,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Agriculture--Economic aspects ,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Agricultural engineering,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Conservation biology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Potatoes ,2,1,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Crop science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Geomorphology ,1,0,1,0,0,0,1,1,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Agricultural engineering,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Microbiology ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Agricultural engineering,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agricultural engineering,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Soil science ,2,2,0,2,0,1,1,0,0,0,2,0,1,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0
+Food crops--Genetic engineering,Weeds--Control ,2,2,0,2,0,1,1,0,0,0,2,0,1,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0
+Food crops--Genetic engineering,Ecology--Mathematical models ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Plant diseases ,2,2,0,2,0,1,1,0,0,0,2,0,1,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0
+Food crops--Genetic engineering,Veterinary medicine ,0,0,0,0,5,3,0,0,0,0,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,1
+Food crops--Genetic engineering,Dairying ,1,1,0,1,3,6,0,0,0,0,6,0,0,0,0,0,1,0,0,1,1,0,2,0,2,0,0,0,0,0
+Food crops--Genetic engineering,Soils--Quality ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Food crops--Genetic engineering,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Food crops--Genetic engineering ,2,2,0,2,5,6,1,0,0,0,13,0,1,1,0,0,2,0,0,1,1,0,4,0,7,2,0,0,0,1
+Food crops--Genetic engineering,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Insects--Physiology ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Food crops--Genetic engineering,Molecular ecology ,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Food crops--Genetic engineering,Forests and forestry ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Pests--Control ,2,2,0,2,0,1,1,0,0,0,2,0,1,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0
+Food crops--Genetic engineering,Conservation biology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Potatoes ,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Crop science ,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Food--Safety measures ,0,0,0,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0
+Food crops--Genetic engineering,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Food--Analysis ,1,1,0,1,0,2,1,0,0,0,7,0,1,0,0,0,1,0,0,0,0,0,4,0,7,0,0,0,0,0
+Food crops--Genetic engineering,Genomics ,0,0,0,0,2,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+Food crops--Genetic engineering,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food crops--Genetic engineering,Molecular biology--Methodology ,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Entomology,Soil science ,2,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Weeds--Control ,0,4,2,3,0,0,1,0,0,1,0,4,2,0,2,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Entomology,Ecology--Mathematical models ,0,2,4,1,0,0,2,0,0,1,0,4,3,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Plant diseases ,0,3,1,5,0,0,0,0,0,0,0,5,2,1,1,0,3,1,0,1,2,0,0,0,0,0,0,0,0,0
+Entomology,Veterinary medicine ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Dairying ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Soils--Quality ,2,1,2,0,0,0,4,0,0,1,0,4,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Agricultural engineering ,0,1,1,0,0,0,1,0,0,2,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Entomology ,2,4,4,5,0,0,4,0,0,2,0,13,5,1,3,0,6,3,0,1,2,0,0,0,0,0,0,0,0,0
+Entomology,Insects--Physiology ,0,2,3,2,0,0,1,0,0,1,0,5,5,1,2,0,3,2,0,0,1,0,0,0,0,0,0,0,0,0
+Entomology,Molecular ecology ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Entomology,Forests and forestry ,0,2,2,1,0,0,1,0,0,1,0,3,2,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Pests--Control ,0,1,2,3,0,0,1,0,0,0,0,6,3,1,2,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0
+Entomology,Conservation biology ,1,0,1,1,0,0,1,0,0,0,0,3,2,1,0,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0
+Entomology,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Potatoes ,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Entomology,Crop science ,0,1,0,2,0,0,0,0,0,0,0,2,1,1,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0
+Entomology,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Entomology,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Soil science ,2,2,0,2,0,0,1,0,0,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Insects--Physiology,Weeds--Control ,2,8,2,6,1,1,3,0,0,1,1,2,8,0,3,0,3,0,0,2,0,0,0,0,1,0,0,0,0,0
+Insects--Physiology,Ecology--Mathematical models ,0,2,3,1,0,0,1,0,0,1,0,3,3,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Plant diseases ,2,6,1,8,0,0,1,0,0,0,1,2,8,1,1,0,4,1,0,3,1,0,0,0,1,0,0,0,0,0
+Insects--Physiology,Veterinary medicine ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Dairying ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Soils--Quality ,1,3,1,1,1,1,3,0,0,1,1,1,3,0,2,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Insects--Physiology,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Agricultural engineering ,0,1,1,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Food crops--Genetic engineering ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Insects--Physiology,Entomology ,0,2,3,2,0,0,1,0,0,1,0,5,5,1,2,0,3,2,0,0,1,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Insects--Physiology ,2,8,3,8,1,1,3,0,0,1,1,5,13,1,3,0,5,2,0,3,1,0,0,0,1,0,0,0,0,0
+Insects--Physiology,Molecular ecology ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Forests and forestry ,0,3,2,1,1,1,2,0,0,1,0,2,3,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Pests--Control ,1,3,1,4,0,0,1,0,0,0,1,3,5,1,1,0,5,1,0,0,1,0,0,0,1,0,0,0,0,0
+Insects--Physiology,Conservation biology ,0,0,1,1,0,0,0,0,0,0,0,2,2,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Potatoes ,0,2,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Crop science ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Food--Analysis ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Insects--Physiology,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insects--Physiology,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Soil science ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Molecular ecology,Weeds--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Ecology--Mathematical models ,0,0,5,0,0,0,0,0,0,0,0,0,0,5,3,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0
+Molecular ecology,Plant diseases ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Molecular ecology,Veterinary medicine ,1,0,0,0,3,0,0,0,0,0,1,0,0,3,0,1,0,1,0,0,0,1,0,0,0,2,0,0,0,1
+Molecular ecology,Dairying ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Soils--Quality ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Food crops--Genetic engineering ,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Molecular ecology,Entomology ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Molecular ecology,Insects--Physiology ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Molecular ecology,Molecular ecology ,1,0,5,1,3,0,0,0,0,0,1,1,1,12,3,1,1,6,0,0,2,1,0,1,0,5,0,0,0,2
+Molecular ecology,Forests and forestry ,0,0,3,0,0,0,0,0,0,0,0,0,0,3,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Agriculture--Economic aspects ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Molecular ecology,Pests--Control ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Molecular ecology,Conservation biology ,1,0,4,1,1,0,0,0,0,0,0,1,1,6,2,1,1,6,0,0,1,1,0,1,0,0,0,0,0,0
+Molecular ecology,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Crop science ,0,0,0,1,0,0,0,0,0,0,0,1,1,2,0,0,1,1,0,0,2,0,0,0,0,1,0,0,0,1
+Molecular ecology,Transportation--Research ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Molecular ecology,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Geomorphology ,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Molecular ecology,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Genomics ,0,0,0,0,2,0,0,0,0,0,1,0,0,5,0,0,0,0,0,0,1,0,0,0,0,5,0,0,0,2
+Molecular ecology,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular ecology,Molecular biology--Methodology ,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,2
+Forests and forestry,Soil science ,4,0,1,0,0,0,1,1,1,0,0,0,0,0,4,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0
+Forests and forestry,Weeds--Control ,0,3,2,1,1,1,2,0,0,1,0,2,3,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Ecology--Mathematical models ,1,2,7,1,0,0,1,0,0,1,0,2,2,3,7,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0
+Forests and forestry,Plant diseases ,0,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Veterinary medicine ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Dairying ,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Soils--Quality ,1,2,1,0,1,1,3,0,0,1,0,1,2,0,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Forests and forestry,Water--Waste ,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Water--waste ,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Agricultural engineering ,0,1,1,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Entomology ,0,2,2,1,0,0,1,0,0,1,0,3,2,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Insects--Physiology ,0,3,2,1,1,1,2,0,0,1,0,2,3,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Molecular ecology ,0,0,3,0,0,0,0,0,0,0,0,0,0,3,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Forests and forestry ,4,3,7,1,1,1,3,1,1,1,0,3,3,3,12,0,2,3,0,0,0,0,0,2,0,0,0,0,0,0
+Forests and forestry,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Pests--Control ,0,1,1,1,0,0,0,0,0,0,0,2,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Conservation biology ,1,0,2,0,0,0,1,0,0,0,0,0,0,2,3,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0
+Forests and forestry,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Crop science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Geomorphology ,2,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0
+Forests and forestry,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forests and forestry,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Soil science ,4,0,1,0,1,0,1,1,1,1,0,0,0,1,0,4,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+Agriculture--Economic aspects,Weeds--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Ecology--Mathematical models ,1,0,2,0,0,0,1,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Agriculture--Economic aspects,Plant diseases ,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Veterinary medicine ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Dairying ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Soils--Quality ,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Agriculture--Economic aspects,Water--Waste ,1,0,1,1,0,0,1,2,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Agriculture--Economic aspects,Water--waste ,1,0,1,1,0,0,1,2,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Agriculture--Economic aspects,Agricultural engineering ,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Agriculture--Economic aspects,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Insects--Physiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Molecular ecology ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Forests and forestry ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Agriculture--Economic aspects ,4,0,2,1,1,0,1,2,2,1,0,0,0,1,0,12,0,1,0,0,0,1,1,1,0,0,0,0,0,0
+Agriculture--Economic aspects,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Conservation biology ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Crop science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Transportation--Research ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Food--Safety measures ,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Geomorphology ,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Agriculture--Economic aspects,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agriculture--Economic aspects,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Soil science ,2,2,0,2,0,1,1,0,0,0,2,0,1,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0
+Pests--Control,Weeds--Control ,2,5,1,4,0,1,1,0,0,0,2,1,3,0,1,0,5,0,0,0,1,0,0,0,1,0,0,0,0,0
+Pests--Control,Ecology--Mathematical models ,0,1,2,1,0,0,1,0,0,0,0,2,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Plant diseases ,2,4,1,7,0,1,1,0,0,0,2,3,4,1,1,0,7,1,0,0,2,0,0,0,1,1,0,0,0,0
+Pests--Control,Veterinary medicine ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Dairying ,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Pests--Control,Soils--Quality ,1,1,1,1,0,0,2,0,0,0,1,1,1,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0
+Pests--Control,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Food crops--Genetic engineering ,2,2,0,2,0,1,1,0,0,0,2,0,1,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0
+Pests--Control,Entomology ,0,1,2,3,0,0,1,0,0,0,0,6,3,1,2,0,6,1,0,0,1,0,0,0,0,0,0,0,0,0
+Pests--Control,Insects--Physiology ,1,3,1,4,0,0,1,0,0,0,1,3,5,1,1,0,5,1,0,0,1,0,0,0,1,0,0,0,0,0
+Pests--Control,Molecular ecology ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Pests--Control,Forests and forestry ,0,1,1,1,0,0,0,0,0,0,0,2,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Pests--Control ,2,5,2,7,0,1,2,0,0,0,2,6,5,1,2,0,12,1,0,0,2,0,1,0,1,1,0,0,0,0
+Pests--Control,Conservation biology ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Pests--Control,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Crop science ,1,1,0,2,0,1,0,0,0,0,1,1,1,1,0,0,2,1,0,0,2,0,0,0,0,0,0,0,0,0
+Pests--Control,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+Pests--Control,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Food--Analysis ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Pests--Control,Genomics ,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Pests--Control,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pests--Control,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conservation biology,Soil science ,3,0,0,0,1,0,2,0,0,0,0,1,0,1,1,1,0,3,0,0,0,1,0,1,0,0,0,0,0,0
+Conservation biology,Weeds--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conservation biology,Ecology--Mathematical models ,0,0,5,0,0,0,0,0,0,0,0,1,1,4,2,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0
+Conservation biology,Plant diseases ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Conservation biology,Veterinary medicine ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Conservation biology,Dairying ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conservation biology,Soils--Quality ,2,0,0,0,0,0,2,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0
+Conservation biology,Water--Waste ,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Conservation biology,Water--waste ,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Conservation biology,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conservation biology,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conservation biology,Entomology ,1,0,1,1,0,0,1,0,0,0,0,3,2,1,0,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0
+Conservation biology,Insects--Physiology ,0,0,1,1,0,0,0,0,0,0,0,2,2,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0
+Conservation biology,Molecular ecology ,1,0,4,1,1,0,0,0,0,0,0,1,1,6,2,1,1,6,0,0,1,1,0,1,0,0,0,0,0,0
+Conservation biology,Forests and forestry ,1,0,2,0,0,0,1,0,0,0,0,0,0,2,3,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0
+Conservation biology,Agriculture--Economic aspects ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Conservation biology,Pests--Control ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Conservation biology,Conservation biology ,3,0,5,1,1,0,2,1,1,0,0,3,2,6,3,1,1,14,0,0,1,1,0,3,0,0,0,0,0,0
+Conservation biology,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conservation biology,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conservation biology,Crop science ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Conservation biology,Transportation--Research ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Conservation biology,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conservation biology,Geomorphology ,1,0,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0
+Conservation biology,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conservation biology,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conservation biology,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conservation biology,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conservation biology,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conservation biology,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Soil science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Weeds--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Ecology--Mathematical models ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Plant diseases ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Veterinary medicine ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Dairying ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Soils--Quality ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Insects--Physiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Molecular ecology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Forests and forestry ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Conservation biology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,1,0,0,0,0,2,0,1,0
+Superconductors,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Crop science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Superconductors,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
+Superconductors,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superconductors,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Superconductors,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Soil science ,3,2,0,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Potatoes,Weeds--Control ,2,6,0,4,0,0,2,0,0,1,0,1,2,0,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0
+Potatoes,Ecology--Mathematical models ,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+Potatoes,Plant diseases ,0,4,1,6,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,6,0,0,0,0,0,0,0,2,1,1
+Potatoes,Veterinary medicine ,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Potatoes,Dairying ,1,0,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Potatoes,Soils--Quality ,2,2,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Potatoes,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Agricultural engineering ,2,1,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Potatoes,Food crops--Genetic engineering ,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Potatoes,Entomology ,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Potatoes,Insects--Physiology ,0,2,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Potatoes,Molecular ecology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Forests and forestry ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Conservation biology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Potatoes ,3,6,1,6,1,2,2,0,0,2,1,1,3,0,0,0,0,0,0,10,0,0,0,0,0,0,0,2,1,1
+Potatoes,Crop science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Microbiology ,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,1,1
+Potatoes,Biotechnology ,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+Potatoes,Molecular biology--Methodology ,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+Crop science,Soil science ,4,3,1,3,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,4,0,0,0,0,1,0,0,1,0
+Crop science,Weeds--Control ,3,6,0,3,0,1,2,0,0,0,1,1,0,0,0,0,1,0,0,0,6,0,0,0,1,0,0,0,0,0
+Crop science,Ecology--Mathematical models ,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,1,1
+Crop science,Plant diseases ,3,3,1,5,0,1,1,0,0,0,1,2,1,1,0,0,2,1,0,0,5,0,0,0,0,1,0,0,1,0
+Crop science,Veterinary medicine ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crop science,Dairying ,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Crop science,Soils--Quality ,1,2,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Crop science,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crop science,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crop science,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crop science,Food crops--Genetic engineering ,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Crop science,Entomology ,0,1,0,2,0,0,0,0,0,0,0,2,1,1,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0
+Crop science,Insects--Physiology ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Crop science,Molecular ecology ,0,0,0,1,0,0,0,0,0,0,0,1,1,2,0,0,1,1,0,0,2,0,0,0,0,1,0,0,0,1
+Crop science,Forests and forestry ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crop science,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crop science,Pests--Control ,1,1,0,2,0,1,0,0,0,0,1,1,1,1,0,0,2,1,0,0,2,0,0,0,0,0,0,0,0,0
+Crop science,Conservation biology ,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Crop science,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crop science,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crop science,Crop science ,4,6,2,5,0,1,2,0,0,0,1,2,1,2,0,0,2,1,0,0,10,0,0,0,1,2,0,1,1,2
+Crop science,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crop science,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crop science,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crop science,Food--Analysis ,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+Crop science,Genomics ,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,2,0,0,1,1
+Crop science,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crop science,Microbiology ,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+Crop science,Biotechnology ,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Crop science,Molecular biology--Methodology ,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,1,0,1,0,2
+Transportation--Research,Soil science ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Transportation--Research,Weeds--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Ecology--Mathematical models ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Plant diseases ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Veterinary medicine ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Transportation--Research,Dairying ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Soils--Quality ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Insects--Physiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Molecular ecology ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Transportation--Research,Forests and forestry ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Agriculture--Economic aspects ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Transportation--Research,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Conservation biology ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Transportation--Research,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Transportation--Research,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Crop science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Transportation--Research ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,10,0,0,0,0,0,0,0,0
+Transportation--Research,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transportation--Research,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Soil science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Weeds--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Ecology--Mathematical models ,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Food--Safety measures,Plant diseases ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Veterinary medicine ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Dairying ,0,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,1,1,0
+Food--Safety measures,Soils--Quality ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Food crops--Genetic engineering ,0,0,0,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0
+Food--Safety measures,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Insects--Physiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Molecular ecology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Forests and forestry ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Agriculture--Economic aspects ,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Food--Safety measures,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+Food--Safety measures,Conservation biology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Crop science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Food--Safety measures ,0,0,1,0,0,3,0,0,0,0,4,0,0,0,0,1,1,0,0,0,0,0,10,0,6,0,1,1,1,1
+Food--Safety measures,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Food--Analysis ,0,0,0,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,6,0,6,0,0,0,0,1
+Food--Safety measures,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Safety measures,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Food--Safety measures,Microbiology ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+Food--Safety measures,Biotechnology ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+Food--Safety measures,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+Geomorphology,Soil science ,3,0,2,0,0,0,2,1,1,1,0,0,0,0,2,1,0,1,0,0,0,0,0,3,0,0,0,0,0,0
+Geomorphology,Weeds--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Ecology--Mathematical models ,2,0,4,0,0,0,1,2,2,1,0,0,0,1,1,1,0,1,0,0,0,0,0,4,0,0,0,0,0,0
+Geomorphology,Plant diseases ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Veterinary medicine ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Dairying ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Soils--Quality ,2,0,1,0,0,0,2,1,1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0
+Geomorphology,Water--Waste ,1,0,2,0,0,0,1,3,3,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,0,0,0,0,0
+Geomorphology,Water--waste ,1,0,2,0,0,0,1,3,3,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,0,0,0,0,0
+Geomorphology,Agricultural engineering ,1,0,1,0,0,0,1,1,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Geomorphology,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Insects--Physiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Molecular ecology ,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Geomorphology,Forests and forestry ,2,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0
+Geomorphology,Agriculture--Economic aspects ,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Geomorphology,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Conservation biology ,1,0,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0
+Geomorphology,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Crop science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Geomorphology ,3,0,4,0,0,0,2,3,3,2,0,0,0,1,2,1,0,3,0,0,0,0,0,10,0,0,0,0,0,0
+Geomorphology,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geomorphology,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Soil science ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Food--Analysis,Weeds--Control ,1,2,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0
+Food--Analysis,Ecology--Mathematical models ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Plant diseases ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Food--Analysis,Veterinary medicine ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Dairying ,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+Food--Analysis,Soils--Quality ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Food--Analysis,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Food crops--Genetic engineering ,1,1,0,1,0,2,1,0,0,0,7,0,1,0,0,0,1,0,0,0,0,0,4,0,7,0,0,0,0,0
+Food--Analysis,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Insects--Physiology ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Food--Analysis,Molecular ecology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Forests and forestry ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Pests--Control ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Food--Analysis,Conservation biology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Crop science ,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+Food--Analysis,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Food--Safety measures ,0,0,0,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,6,0,6,0,0,0,0,1
+Food--Analysis,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Food--Analysis ,1,2,0,1,0,2,1,0,0,0,7,0,1,0,0,0,1,0,0,0,1,0,6,0,10,0,0,0,0,1
+Food--Analysis,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food--Analysis,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+Genomics,Soil science ,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Genomics,Weeds--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Ecology--Mathematical models ,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Genomics,Plant diseases ,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0,1,0
+Genomics,Veterinary medicine ,0,0,0,0,4,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1
+Genomics,Dairying ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Soils--Quality ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Food crops--Genetic engineering ,0,0,0,0,2,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+Genomics,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Insects--Physiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Molecular ecology ,0,0,0,0,2,0,0,0,0,0,1,0,0,5,0,0,0,0,0,0,1,0,0,0,0,5,0,0,0,2
+Genomics,Forests and forestry ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Pests--Control ,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Genomics,Conservation biology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Crop science ,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,2,0,0,1,1
+Genomics,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Genomics ,1,0,1,2,4,0,0,0,0,0,2,0,0,5,0,0,1,0,0,0,2,0,0,0,0,10,0,0,1,2
+Genomics,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genomics,Biotechnology ,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Genomics,Molecular biology--Methodology ,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,2
+Semiconductors,Soil science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Weeds--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Ecology--Mathematical models ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Plant diseases ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Veterinary medicine ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Dairying ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Soils--Quality ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Insects--Physiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Molecular ecology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Forests and forestry ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Conservation biology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
+Semiconductors,Potatoes ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Crop science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Semiconductors,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Semiconductors,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,10,1,3,1
+Semiconductors,Microbiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+Semiconductors,Biotechnology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,0
+Semiconductors,Molecular biology--Methodology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Microbiology,Soil science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Weeds--Control ,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Microbiology,Ecology--Mathematical models ,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,4,2,3
+Microbiology,Plant diseases ,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,1,1
+Microbiology,Veterinary medicine ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Dairying ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+Microbiology,Soils--Quality ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Agricultural engineering ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Microbiology,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Insects--Physiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Molecular ecology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Forests and forestry ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Conservation biology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Potatoes ,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,1,1
+Microbiology,Crop science ,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+Microbiology,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Food--Safety measures ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+Microbiology,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Genomics ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbiology,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+Microbiology,Microbiology ,0,1,4,3,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,1,10,4,3
+Microbiology,Biotechnology ,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,4,4,1
+Microbiology,Molecular biology--Methodology ,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3,1,3
+Biotechnology,Soil science ,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Biotechnology,Weeds--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Ecology--Mathematical models ,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,3,1
+Biotechnology,Plant diseases ,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,2,1
+Biotechnology,Veterinary medicine ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Dairying ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+Biotechnology,Soils--Quality ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Food crops--Genetic engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Insects--Physiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Molecular ecology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Forests and forestry ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Conservation biology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Biotechnology,Potatoes ,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+Biotechnology,Crop science ,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Biotechnology,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Food--Safety measures ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+Biotechnology,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotechnology,Genomics ,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Biotechnology,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,0
+Biotechnology,Microbiology ,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,4,4,1
+Biotechnology,Biotechnology ,1,0,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,3,4,9,1
+Biotechnology,Molecular biology--Methodology ,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+Molecular biology--Methodology,Soil science ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Weeds--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Ecology--Mathematical models ,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3,1,3
+Molecular biology--Methodology,Plant diseases ,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+Molecular biology--Methodology,Veterinary medicine ,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Molecular biology--Methodology,Dairying ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Soils--Quality ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Water--Waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Water--waste ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Agricultural engineering ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Food crops--Genetic engineering ,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Molecular biology--Methodology,Entomology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Insects--Physiology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Molecular ecology ,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,2
+Molecular biology--Methodology,Forests and forestry ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Agriculture--Economic aspects ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Pests--Control ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Conservation biology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Superconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Potatoes ,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+Molecular biology--Methodology,Crop science ,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,1,0,1,0,2
+Molecular biology--Methodology,Transportation--Research ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Food--Safety measures ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+Molecular biology--Methodology,Geomorphology ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molecular biology--Methodology,Food--Analysis ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+Molecular biology--Methodology,Genomics ,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,2
+Molecular biology--Methodology,Semiconductors ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Molecular biology--Methodology,Microbiology ,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3,1,3
+Molecular biology--Methodology,Biotechnology ,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+Molecular biology--Methodology,Molecular biology--Methodology ,0,0,3,1,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,1,2,0,1,0,1,2,1,3,1,9
